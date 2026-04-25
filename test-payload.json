@@ -1,0 +1,23 @@
+{
+  "city": "london",
+  "weather": {
+    "city": "london",
+    "temperature": 18,
+    "humidity": 81,
+    "wind": 12,
+    "rainChance": 67
+  },
+  "daylight": {
+    "city": "london",
+    "sunrise": "06:10",
+    "sunset": "19:58",
+    "daylightHours": "13h 48m"
+  },
+  "travel": {
+    "city": "london",
+    "advisoryLevel": "Moderate",
+    "routeStatus": "Busy",
+    "delayRisk": "Medium",
+    "visibility": "Good"
+  }
+}
