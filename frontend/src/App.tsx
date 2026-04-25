@@ -49,7 +49,7 @@ function App() {
   const [recordedAt, setRecordedAt] = useState("");
 
   const API_BASE_URL =
-    "https://bookish-funicular-r49vjqjr6559hp5g-3000.app.github.dev";
+    "https://bookish-funicular-r49vjqjr6559hp5g7-3000.app.github.dev";
 
   const clearBlockchainState = () => {
     setRecordMessage("");
